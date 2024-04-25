@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/brincos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/brinco-infantil-bola-dourada-em-ouro-18k-com-perola-natural-25mm-pendurada</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -134,9 +140,93 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/brincos</loc>
+      <loc>https://ouroinfantil.netlify.app/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-infantil-unicornio-esmaltado-em-ouro-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-de-ouro-figa-grande</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-coracao-pequeno-ouro-branco-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-18k-infantil-coracao-com-perola-natural-35mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-de-ouro-figa-media</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-de-ouro-figa-mini</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-infantil-coracao-em-zirconia-branca-pequeno-3mm-recem-nascido</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-amarelo-18k-bola-5mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-infantil-de-bolinha-3mm-em-ouro-amarelo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-ouro-de-zirconia-branca-pedra-4mm-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-18k-em-zirconia-pedra-3mm-em-ouro-branco-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-ouro-18k-romeu-e-julieta-perola-com-zirconia-branca</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-infantil-18k-com-plaquinha-4-bolinhas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-de-ouro-18k-coracao-mini</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -206,15 +296,15 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
