@@ -1382,6 +1382,90 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-sao-judas-tadeu-em-ouro-18k-oval</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-mini-medalha-nossa-senhora-da-conceicao-ouro-18k-ornato</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-mini-ouro-oval-anjo-da-guarda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-infantil-circulo-zirconia-arco-iris</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-coracao-contorno-fio-bolinha-mini-em-ouro-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pingente-mini-ouro-oval-nossa-senhora-aparecida</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-infantil-flor-do-meu-jardim-em-ouro-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-coracao-medio-argola-em-ouro-18k-fio-quadrado-15mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/conjunto-de-ouro-18k-pulseira-de-perola-com-placa-e-brinco-de-perola-3mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-argola-coracao-fio-torcido-adulto-15mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-18k-com-plaquinha-6-bolinhas-18cm-adulto</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-infantil-com-plaquinha-piastrine</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/conjunto-de-ouro-18k-pulseira-infantil-com-placa-e-perolas-e-brinco-de-perola-4mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/colar-elo-portugues-ouro-amarelo-45cm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1394,12 +1478,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1407,6 +1485,12 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
