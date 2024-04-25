@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/brincos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/brinco-infantil-bola-dourada-em-ouro-18k-com-perola-natural-25mm-pendurada</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1466,6 +1460,48 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-esmeralda-com-brilhantes-em-ouro-branco-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-18k-em-zirconia-pedra-4mm-em-ouro-branco-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-personalizada-nome-coracao-e-fecho-mosquetao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/anel-laco-com-perola-adulto-ouro-18k</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/conjunto-de-ouro-18k-pulseira-piastrine-com-placa-e-brinco-perola-em-garras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-infantil-argola-pequena-em-ouro-18k-fio-quadrado-13mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brincos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1473,6 +1509,12 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/pages/contato</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1490,12 +1532,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1508,13 +1544,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/termos</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/trocas</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
