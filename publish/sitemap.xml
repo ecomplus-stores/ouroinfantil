@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/brincos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/brinco-infantil-bola-dourada-em-ouro-18k-com-perola-natural-25mm-pendurada</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -650,9 +656,51 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/brincos</loc>
+      <loc>https://ouroinfantil.netlify.app/brinco-de-ouro-de-coracao-com-perola-3mm</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/anel-com-coracao-de-rubi-de-3mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-com-perolas-e-plaquinha-formato-coracao</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-infantil-argola-mini-em-ouro-18k-fio-quadrado-10mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-ouro-bailarina-com-diamantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pulseira-de-ouro-cartier-fina-com-perolas-e-placa-para-gravar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/brinco-meu-mini-solitario-brilhantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -674,13 +722,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/faq</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/pagamentos</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -740,13 +788,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
+      <loc>https://ouroinfantil.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/app/index</loc>
+      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
