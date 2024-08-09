@@ -147,7 +147,7 @@ const hasAllDepartments = header.menu_all_departments
         </a>
       </div>
 
-      <div class="order-lg-last col-auto col-lg-3 header__buttons-block">
+      <div class="order-lg-last col-auto p-0 header__buttons-block">
         <div
           class="header__buttons"
           role="group"
@@ -164,9 +164,9 @@ const hasAllDepartments = header.menu_all_departments
             aria-controls="search-bar"
             title="<%= _.dictionary('searchProducts') %>"
           >
-          <i class="svg-ico">
-            <img src="/img/uploads/oi-search.svg"/>
-          </i>
+            <i class="svg-ico">
+              <img src="/img/uploads/oi-search.svg"/>
+            </i>
           </button>
 
           <a
@@ -277,7 +277,7 @@ const hasAllDepartments = header.menu_all_departments
       <% } %>
 
       <% if (categories && categories.length) { %>
-        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col-12 order-lg-last' %> header__nav-block">
+        <div class="d-none d-lg-flex <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %> header__nav-block">
           <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
             <% if (hasAllDepartments) { %>
               <div class="d-inline-block">
