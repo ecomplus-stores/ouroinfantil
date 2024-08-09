@@ -4,29 +4,53 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 3000,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/ouro-infantil-banner-full-1920x600-v1.jpg",
+          "link": "",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/ouro-infantil-banner-full-1920x600-v2.jpg",
+          "alt": "",
+          "mobile_img": ""
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "apx_banners-stripe",
+      "animation": true,
+      "list": [
+        {
+          "img": "/img/uploads/group-5220-4-.svg",
+          "title": "Pague Parcelado",
+          "description": "em até 10x sem juros"
+        },
+        {
+          "img": "/img/uploads/group-5222-4-.svg",
+          "title": "Frete Grátis",
+          "description": "em pedidos acima de R$ 700"
+        },
+        {
+          "img": "/img/uploads/group-5239.svg",
+          "title": "10% de desconto",
+          "description": "pagando via Pix"
+        },
+        {
+          "img": "/img/uploads/group-5223-4-.svg",
+          "title": "Compra 100% Segura",
+          "description": "seus dados protegidos"
+        }
+      ],
+      "title_color": "#131313",
+      "description_color": "#4f4f4f"
     },
     {
       "type": "collection-shelf",
@@ -37,6 +61,20 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-colares-v1-01.png"
+        },
+        {
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-meu-primeiro-brinco-v1-01.png"
+        },
+        {
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-brincos-v1-01.png"
+        }
+      ]
     },
     {
       "type": "page-title",
