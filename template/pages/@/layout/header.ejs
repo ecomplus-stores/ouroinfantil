@@ -72,7 +72,7 @@ const hasAllDepartments = header.menu_all_departments
       <% } %>
     <% } %>
   <% } %>
-
+  <% if (header.contacts_stripe.pages.length > 0) { %>
   <div class="top-bar__nav d-none d-md-block">
     <div class="container-fluid">
       <div class="row">
@@ -119,6 +119,7 @@ const hasAllDepartments = header.menu_all_departments
       </div>
     </div>
   </div>
+  <% } %>
 </div>
 
 <header class="header" id="header">
@@ -146,7 +147,7 @@ const hasAllDepartments = header.menu_all_departments
         </a>
       </div>
 
-      <div class="order-lg-last col-auto p-0 header__buttons-block">
+      <div class="order-lg-last col-auto col-lg-3 header__buttons-block">
         <div
           class="header__buttons"
           role="group"
@@ -163,7 +164,9 @@ const hasAllDepartments = header.menu_all_departments
             aria-controls="search-bar"
             title="<%= _.dictionary('searchProducts') %>"
           >
-            <i class="i-search"></i>
+          <i class="svg-ico">
+            <img src="/img/uploads/oi-search.svg"/>
+          </i>
           </button>
 
           <a
@@ -173,7 +176,10 @@ const hasAllDepartments = header.menu_all_departments
             href="/app/#/account/"
             title="<%= _.dictionary('myAccount') %>"
           >
-            <i class="i-user"></i>
+            
+            <i class="svg-ico">
+              <img src="/img/uploads/oi-user.svg"/>
+            </i>
           </a>
           <a
             id="cart-button"
@@ -182,7 +188,9 @@ const hasAllDepartments = header.menu_all_departments
             href="/app/#/cart"
             title="<%= _.dictionary('openCart') %>"
           >
-            <i class="i-shopping-bag"></i>
+          <i class="svg-ico">
+            <img src="/img/uploads/oi-cart.svg"/>
+          </i>
             <span id="cart-count" class="badge badge-primary"></span>
           </a>
         </div>
@@ -227,7 +235,9 @@ const hasAllDepartments = header.menu_all_departments
               class="header__search-btn"
               aria-label="<%= _.dictionary('searchProducts') %>"
             >
-              <i class="i-search"></i>
+            <i class="svg-ico">
+              <img src="/img/uploads/oi-search.svg"/>
+            </i>
             </button>
             <div id="instant-search">
               <!--
@@ -267,7 +277,7 @@ const hasAllDepartments = header.menu_all_departments
       <% } %>
 
       <% if (categories && categories.length) { %>
-        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col' %> header__nav-block">
+        <div class="d-none d-lg-block <%= isCategoriesNavFull ? 'col-12 order-lg-last' : 'col-12 order-lg-last' %> header__nav-block">
           <nav class="header__nav<%= isCategoriesNavFull ? ' header__nav--full' : '' %>">
             <% if (hasAllDepartments) { %>
               <div class="d-inline-block">

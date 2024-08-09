@@ -1,4 +1,5 @@
 // Add your custom CSS here.
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sofia&display=swap');
 
 .font-weight-bold{font-weight: bold;}
 .font-weight-800{font-weight: 800;}
@@ -22,6 +23,14 @@
 /* Direção de flexbox como coluna em todos os dispositivos */
 .flex-column {
   flex-direction: column !important;
+}
+:root{
+  --ff1:"Poppins", sans-serif;
+  --ff2:"Sofia", cursive;
+  --ff3:"Lato", sans-serif;
+}
+body{
+  font-family: var(--ff1);
 }
 
 /* Direção de flexbox como linha em dispositivos de tamanho médio e maiores */
@@ -219,4 +228,72 @@ footer.footer{
   }
   .footer__credits{padding: 1.5rem 0;border: 0;}
   .footer__credits a{display: flex;align-items: center;gap: .5rem;}
+}
+
+@media (min-width: 768px) {
+  .header__row--centralized-logo .header__nav-block {
+    display: flex;
+    flex: 1 1 100%;
+    margin-top: 1rem;
+  }
+  .header__row--centralized-logo #search-bar,
+  .header__row--centralized-logo .header__buttons-block {
+    display: flex;
+    flex: 0 0 25%;
+    max-width: 25%;
+    justify-content: flex-end;
+  }
+  .header__row--centralized-logo #search-bar{justify-content: flex-start;}
+  .header__row--centralized-logo .header__logo-block {
+    display: flex;
+    justify-content: center;
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+  }
+  .header__row--centralized-logo .header__toggler-block{display: none;}
+}
+
+.top-bar{
+  > *,
+  > a.top-bar__countdown{
+    background: var(--secondary);
+    font-size: 14px;
+    text-transform: lowercase;
+    font-weight: 500;
+  }
+}
+header#header{
+  background:#fff;
+  border-bottom:1px solid #f2f2f2;
+  .header__search{
+    width: 100%;
+    input{
+      font-size: 14px;
+      width: 100%;
+      border-bottom: 1px solid #4f4f4f;
+      border-radius: 0;
+      padding-left: 0;
+    }
+  }
+  .header__nav{
+    margin-top:1rem;
+    > div{
+      margin: 0 1rem;
+      a{
+        text-transform: initial;
+        font-weight: 400;
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+#content{
+  .products-carousel__title{
+    font-family: var(--ff3);
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
 }

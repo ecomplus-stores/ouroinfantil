@@ -5,28 +5,21 @@
   },
   "contacts_stripe": {
     "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
+      
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
     "random": 6,
     "full_width": false
   },
-  "centralized_logo": false,
-  "desktop_megamenu": false,
+  "centralized_logo": true,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true,
   "menu_all_departments": false,
   "name_all_departments": ""
 }
