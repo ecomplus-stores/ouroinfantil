@@ -132,7 +132,9 @@ const hasAllDepartments = header.menu_all_departments
           onclick="toggleSidenav()"
           aria-label="Toggle side navigation"
         >
-          <i class="header__toggler-icon i-bars"></i>
+        <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M2.75 11H19.25M2.75 5.5H19.25M2.75 16.5H13.75" stroke="#4f4f4f" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
           <% if (!categories.length) { %>
             <span class="d-none d-lg-inline">
               Menu
