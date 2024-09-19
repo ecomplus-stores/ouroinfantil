@@ -55,7 +55,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
+      "collection_id": "662a76364e9909015f20fe3c:categories:Brincos:/brincos",
       "sort": "offers",
       "title": "Mais Vendidos",
       "headless": false,
@@ -82,7 +82,8 @@
       "limit": 12,
       "page": 1,
       "title": "Lançamentos",
-      "sort": "news"
+      "sort": "news",
+      "collection_id": "662e2814ee85900185eee027:categories:Pulseiras:/pulseiras"
     }
   ]
 }
