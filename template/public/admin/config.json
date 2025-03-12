@@ -7,8 +7,8 @@
   },
     "collections": [
     {
-      "label" : "alpix.dev",
-      "name": "alpix",
+      "label" : "Recursos Adicionais",
+      "name": "alpix_dev",
       "editor": {
         "preview": false
       },
