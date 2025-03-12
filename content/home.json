@@ -31,12 +31,12 @@
         {
           "img": "/img/uploads/group-5220-5-.svg",
           "title": "Pague Parcelado",
-          "description": "em até 10x sem juros"
+          "description": "em até 12x sem juros"
         },
         {
           "img": "/img/uploads/group-5222-5-.svg",
           "title": "Frete Grátis",
-          "description": "em pedidos acima de R$ 700"
+          "description": "em pedidos acima de R$ 800"
         },
         {
           "img": "/img/uploads/group-5239-1-.svg",
@@ -44,9 +44,9 @@
           "description": "pagando via Pix"
         },
         {
-          "img": "/img/uploads/group-5223-5-.svg",
-          "title": "Compra 100% Segura",
-          "description": "seus dados protegidos"
+          "img": "/img/uploads/icotroca.svg",
+          "title": "Troca facilitada",
+          "description": "em até 30 dias"
         }
       ],
       "title_color": "#131313",

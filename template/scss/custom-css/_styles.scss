@@ -287,7 +287,6 @@ footer.footer{
   > a.top-bar__countdown{
     background: var(--secondary);
     font-size: 14px;
-    text-transform: lowercase;
     font-weight: 500;
   }
 }
@@ -300,9 +299,8 @@ header#header{
     input{
       font-size: 13px;
       width: 100%;
-      border-bottom: 1px solid #4f4f4f;
-      border-radius: 0;
-      padding-left: 0;
+      border: 1px solid #ccc;
+      background: #f8f8f8;
     }
   }
   .header__nav{
@@ -1714,28 +1712,7 @@ ul.app_contacts{
   }
 }
 
-// #login-modal{
-//   .card-header{
-//     background:#fff;
-//     font-weight: bold;
-//     font-family: "Coniferous";
-//     font-size: var(--h4);
-//     button{
-//       // background-image: url('../../public/assets/cross-circle.svg');
-//       height: 24px;
-//       width: 24px;
-//       margin: 5px 0;
-//       span{display: none;}
-//     }
-//   }
-//   .card-body{
-//     button{
-//       border-radius: 50px;
-//       border: 2px solid #000;
-//     }
-//   }
-// }
-
+// ul
 .apx_tags{
   position: relative;
   z-index: 1;
@@ -1962,3 +1939,32 @@ ul.app_contacts{
       }
     }
 }
+
+#user-button{
+  .svg-ico{line-height: 30px;}
+  div > div:first-child{
+    font-size: var(--font-size-sm);
+    line-height: var(--font-size);
+    text-align: left;
+    color: var(--c1);
+    font-weight: 500;
+    span{font-weight: 600;}
+   
+  }
+  div > div:not(:first-child){
+    font-size: var(--smallest);
+    line-height: var(--font-size-sm);
+    font-weight: normal;
+    color: var(--c1);
+    a{text-decoration: underline;}    
+  }
+}
+
+.btn-promo{
+  span{
+    border-bottom: 1px solid;
+
+  }
+}
+
+.header__container{max-width:100%}

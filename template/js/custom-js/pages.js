@@ -21,3 +21,14 @@ $(document).ready(function() {
 $('#apx_popup-box').on('hidden.bs.modal', function () {
   localStorage.setItem('popupClosedAt', new Date().toISOString());
 });
+
+
+const EcomPassport = require('@ecomplus/passport-client');
+const client = EcomPassport.ecomPassport.getCustomer();   
+
+if(client.display_name){
+  $('[data-username]').text(client.display_name || `Visitante` )
+  $(`[data-isnotlogged]`).hide()
+}else{
+  $(`[data-islogged]`).hide()
+}
