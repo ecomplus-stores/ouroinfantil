@@ -496,7 +496,7 @@ export default options => {
                 {
                   label: 'Foto do Cliente',
                   name: 'image',
-                  widget: 'image'      ,
+                  widget: 'image',
                   required: false    
                 },                
               ]

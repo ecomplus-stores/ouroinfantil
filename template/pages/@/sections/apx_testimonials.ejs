@@ -1,63 +1,89 @@
-<% 
+<%
+let reviews = opt.testimonials
+const { title, description } = opt
 
-var apx_content = _.cms('testimonials') || {}
-const title = apx_content.title
+console.log()
+if (reviews && reviews.length) {
+  %>
 
-%>
-
-<div class="container<%= apx_content.container.replace('Completa','-fluid').replace('Caixa','') %>">
-    <h4 class="bah-title">
-        <%- await include(`@/sections/apx_title`, { _,   title}) %>
-    </h4>
+  <section class="brands-carousel container reviews my-5 py-4">
+    <% if (title) { %>
+      <div class="apx_section-title text-center mb-4">
+        <h2 class="text-bold text-uppercase"><%- title %></h2>
+        <% if (description) { %>
+          <small class="text-uppercase"><%- description %></small>
+        <% } %>
+      </div>
+    <% } %>
+    
     <div
       class="glide"
-      data-wait-mutation="false"
-      data-autoplay="4000"
-      data-per-view="<%= apx_content.quantity %>"
+      data-autoplay="<%= opt.autoplay %>"
+      data-per-view="3"
       data-per-view-md="3"
-      data-per-view-sm="1"
+      data-per-view-sm="3"
+      data-per-view-xs="1"
     >
       <div class="glide__track" data-glide-el="track">
-        <ul class="glide__slides">
-          <% for (let i = 0; i < apx_content.list.length; i++) { %>
-            <li class="glide__slide">
-                <div class="apx_testimonial-item">
-                    <% if (apx_content.list[i].icon) { %>
-                        <div class="icon"><img src="<%= apx_content.list[i].icon %>"/></div>
-                    <% } %>
-                    <% if (apx_content.list[i].text) { %>
-                        <p><%= apx_content.list[i].text %></p>
-                    <% } %>
-                    <% if (apx_content.list[i].title) { %>
-                        <strong><%= apx_content.list[i].title %></strong>
-                    <% } %>
+        <ul class="glide__slides brands-carousel__list">
+          <% reviews.forEach(({ testimonial }) => { 
+            const { name, text, image } = testimonial
+            %>
+            <li class="glide__slide brands-carousel__item">
+              <div class="depoimento-box">
+                <div class="stars">
+                  <i>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#f1d776" d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg></i>
+                    <i>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#f1d776" d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg></i> <i>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#f1d776" d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg></i> <i>
+                          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#f1d776" d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg></i> <i>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="#f1d776" d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg></i>
                 </div>
+                <% if (text && text.length) { %>
+                  <p><%= text %></p>
+                <%} %>
+                <div class="title-client-avk">
+                 
+                  <% if (name && name.length) { %>
+                    <p><%= name %></p> 
+                  <%} %>         
+                </div>
+            </div>
             </li>
-          <% } %>
+          <% }) %>
         </ul>
 
-        <% if(apx_content.list.length > apx_content.quantity) { %>
-        <div
-          class="glide__arrows glide__arrows--outer"
-          data-glide-el="controls"
-        >
-          <button
-            class="btn glide__arrow glide__arrow--left"
-            data-glide-dir="<"
-            aria-label="<%= _.dictionary('previous') %>"
+        <% if (reviews.length > 3) { %>
+          <div
+            class="glide__arrows glide__arrows--outer"
+            data-glide-el="controls"
           >
-            <i class="fas fa-chevron-left"></i>
-          </button>
-          <button
-            class="btn glide__arrow glide__arrow--right"
-            data-glide-dir=">"
-            aria-label="<%= _.dictionary('next') %>"
-          >
-            <i class="fas fa-chevron-right"></i>
-          </button>
-        </div>
+            <button
+              class="btn glide__arrow glide__arrow--left"
+              data-glide-dir="<"
+              aria-label="<%= _.dictionary('previous') %>"
+            >
+            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M31.25 37.5L18.75 25L31.25 12.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+            <button
+              class="btn glide__arrow glide__arrow--right"
+              data-glide-dir=">"
+              aria-label="<%= _.dictionary('next') %>"
+            >
+            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M18.75 37.5L31.25 25L18.75 12.5" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </div>
         <% } %>
       </div>
     </div>
-    
-</div>
+  </section>
+
+  <%
+}
+ %>
+ 
