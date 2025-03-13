@@ -84,6 +84,28 @@
       "title": "Lançamentos",
       "sort": "news",
       "collection_id": "662e2814ee85900185eee027:categories:Pulseiras:/pulseiras"
+    },
+    {
+      "type": "apx_faq",
+      "title": "Perguntas Frequentes",
+      "description": "O que normalmente querem saber sobre a gente",
+      "list": "description_last",
+      "questions": [
+        {
+          "question": {
+            "title": "Essa loja é confiável?",
+            "response": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+          }
+        }
+      ]
+    },
+    {
+      "type": "apx_newsletter",
+      "title": "Assine nossa newsletter",
+      "description": "e receba novidades e promoções em primeira mão",
+      "list": "description_first",
+      "btn_text": "Assinar!",
+      "input_placeholder": "Digite seu email..."
     }
   ]
 }
