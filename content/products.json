@@ -23,7 +23,8 @@
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Produtos relacionados",
+      "enabled": true
     },
     {
       "type": "recommended-products",

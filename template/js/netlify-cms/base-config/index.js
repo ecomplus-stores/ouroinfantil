@@ -455,6 +455,148 @@ const bannerFields = [
 export default options => {
   options.sections = getSections(options).concat([
     {
+      label: '[ALPIX] - Depoimentos',
+      name: 'apx_testimonials',
+      widget: 'object',
+      fields: [
+        {
+          label: 'Título',
+          required: false,
+          name: 'title',
+          widget: 'string'
+        },
+        {
+          label: 'Descrição',
+          required: false,
+          name: 'description',
+          widget: 'text'
+        },
+        {
+          label: 'Depoimentos',
+          name: 'testimonials',
+          widget: 'list',
+          required:false,
+          fields: [
+            {
+              label: 'Depoimento',
+              name: 'testimonial',
+              widget: 'object',
+              required:false,
+              fields: [
+                {
+                  label: 'Nome do Cliente',
+                  name: 'name',
+                  widget: 'string'          
+                },
+                {
+                  label: 'Depoimento',
+                  name: 'text',
+                  widget: 'string'          
+                },
+                {
+                  label: 'Foto do Cliente',
+                  name: 'image',
+                  widget: 'image'          
+                },                
+              ]
+            },          
+          ]
+        },        
+      ]
+    },
+    {
+      label: '[ALPIX] - FAQ',
+      name: 'apx_faq',
+      widget: 'object',
+      fields: [
+        {
+          label: 'Título',
+          required: false,
+          name: 'title',
+          widget: 'string'
+        },
+        {
+          label: 'Descrição',
+          required: false,
+          name: 'description',
+          widget: 'text'
+        },
+        {
+          label: 'Posição da descrição',
+          required: false,
+          name: 'list',
+          widget: 'select',
+          options: ["description_first","description_last"]
+        },        
+        {
+          label: 'Perguntas',
+          name: 'questions',
+          widget: 'list',
+          required:false,
+          fields: [
+            {
+              label: 'Pergunta',
+              name: 'question',
+              widget: 'object',
+              required:false,
+              fields: [
+                {
+                  label: 'Pergunta',
+                  name: 'title',
+                  widget: 'string',
+                  required: false         
+                },
+                {
+                  label: 'Resposta',
+                  name: 'response',
+                  widget: 'string',
+                  required: false            
+                }              
+              ]
+            },          
+          ]
+        },        
+      ]
+    },
+    {
+      label: '[ALPIX] - Newsletter',
+      name: 'apx_newsletter',
+      widget: 'object',
+      fields: [
+        {
+          label: 'Título',
+          required: false,
+          name: 'title',
+          widget: 'string'
+        },
+        {
+          label: 'Descrição',
+          required: false,
+          name: 'description',
+          widget: 'text'
+        },
+        {
+          label: 'Posição da descrição',
+          required: false,
+          name: 'list',
+          widget: 'select',
+          options: ["description_first","description_last"]
+        },        
+        {
+          label: 'Texto do botão',
+          required: false,
+          name: 'btn_text',
+          widget: 'text'
+        },  
+        {
+          label: 'Placeholder do campo',
+          required: false,
+          name: 'input_placeholder',
+          widget: 'text'
+        }  
+      ]
+    },
+    {
       label: '[ALPIX] - Tarja de Vantagens',
       name: 'apx_banners-stripe',
       widget: 'object',

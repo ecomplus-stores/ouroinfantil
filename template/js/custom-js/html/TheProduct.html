@@ -132,6 +132,8 @@
               name="customizations"
               v-if="body.customizations"
             >
+            <div id="product-customizations">
+              <h4>Personalize seu produto!</h4>
               <div
                 v-for="custom in body.customizations"
                 v-if="custom.custom_value"
@@ -150,12 +152,32 @@
                 </label>
 
                 <input
+                  type="date"
+                  class="form-control"
+                  :id="`c-${custom._id}`"
+                  @change="ev => setCustomizationOption(custom, `${ev.target.value.split('-')[2]}/${ev.target.value.split('-')[1]}/${ev.target.value.split('-')[0]}`)"
+                  v-if="custom.label.toLowerCase().trim() == 'data'"
+                >
+                <input
+                  v-else-if="custom.label.toLowerCase().trim() == 'nome'"
+                  type="text"
+                  class="form-control"
+                  :id="`c-${custom._id}`"
+                  maxlength="14"
+                  placeholder="Digite aqui..."
+                  @keyup="ev => setCustomizationOption(custom, ev.target.value)"
+                >
+                <input
+                  v-else
                   type="text"
                   class="form-control"
                   :id="`c-${custom._id}`"
                   @keyup="ev => setCustomizationOption(custom, ev.target.value)"
                 >
+                <div v-if="custom.label.toLowerCase() == 'nome'">Limite de até 14 caracteres.</div>
+                <div v-if="custom.label.toLowerCase() == 'data'">Preencha apenas se desejar gravar a data no verso da placa.</div>
               </div>
+            </div>
             </slot>
             <slot name="prices">
               <p class="product__prices">

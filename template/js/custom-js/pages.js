@@ -32,3 +32,14 @@ if(client.display_name){
 }else{
   $(`[data-islogged]`).hide()
 }
+
+$('.apx_faq button').click(function(){
+  $(this).closest('.apx_faq-item').toggleClass('visible')
+});
+
+$('body').click(function(e){
+  if($(e.target).closest('.header__search').length == 0){
+      $('#instant-search .search__status .close').click();
+  }
+});
+
