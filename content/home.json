@@ -106,6 +106,20 @@
       "list": "description_first",
       "btn_text": "Assinar!",
       "input_placeholder": "Digite seu email..."
+    },
+    {
+      "type": "apx_testimonials",
+      "title": "O que dizem nossos clientes",
+      "description": "Opiniões reais de quem comprou com a gente",
+      "testimonials": [
+        {
+          "testimonial": {
+            "name": "Cliente #1",
+            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede.",
+            "image": "/img/uploads/banner1.png"
+          }
+        }
+      ]
     }
   ]
 }
