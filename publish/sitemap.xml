@@ -1928,18 +1928,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2126,6 +2114,18 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2156,6 +2156,12 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/pages/garantia-dos-produtos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2163,12 +2169,6 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/pages/seguranca</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2198,15 +2198,15 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
