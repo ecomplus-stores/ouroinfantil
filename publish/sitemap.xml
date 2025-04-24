@@ -2132,12 +2132,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/como-cuidar-da-sua-joia</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2145,6 +2139,12 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/pages/fretes-e-entregas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/pages/como-cuidar-da-sua-joia</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2210,13 +2210,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/app/index</loc>
+      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
+      <loc>https://ouroinfantil.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
