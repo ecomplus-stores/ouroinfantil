@@ -2108,6 +2108,12 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2115,12 +2121,6 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2138,13 +2138,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/fretes-e-entregas</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/contato</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/fretes-e-entregas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2168,13 +2168,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/sobre-nos</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/trocas</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2192,15 +2192,15 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
