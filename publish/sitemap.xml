@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -183,6 +195,12 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/206</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1850,24 +1868,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/pages/como-comprar</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1892,13 +1892,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/privacidade</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/garantia-dos-produtos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/pages/garantia-dos-produtos</loc>
+      <loc>https://ouroinfantil.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1952,13 +1952,13 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/app/index</loc>
+      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/admin/index</loc>
+      <loc>https://ouroinfantil.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
