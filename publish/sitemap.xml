@@ -1628,6 +1628,12 @@
     </url>
   
     <url>
+      <loc>https://ouroinfantil.netlify.app/pages/como-cuidar-da-sua-joia</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://ouroinfantil.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1641,12 +1647,6 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/pages/garantia-dos-produtos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/pages/como-cuidar-da-sua-joia</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
