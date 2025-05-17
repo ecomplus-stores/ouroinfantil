@@ -1508,24 +1508,6 @@
     </url>
   
     <url>
-      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ouroinfantil.netlify.app/brincos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1605,6 +1587,24 @@
   
     <url>
       <loc>https://ouroinfantil.netlify.app/brincos-madreperola</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/lancamentos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/promocoes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://ouroinfantil.netlify.app/ff-joias</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
