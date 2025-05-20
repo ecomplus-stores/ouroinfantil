@@ -86,8 +86,6 @@
       "limit": 12,
       "page": 1
     },
-    
-    
     {
       "type": "apx_testimonials",
       "title": "O que dizem nossos clientes",
@@ -95,38 +93,38 @@
       "testimonials": [
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": " Laura G. - Londrina (PR)",
+            "text": "O brinco de flor Rose com bolinha dourada é lindo demais, muito delicado, o pedido chegou no tempo correto e não tive problemas algum com a empresa. Vou comprar outras vezes."
           }
         },
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": " Pamela S. - Sao Paulo (SP)",
+            "text": "Site confiável e produto de ótima qualidade O brinco chegou rapidinho, numa embalagem linda, cheirosa , além do produto ser realmente o que está escrito no site, parabéns"
           }
         },
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": "Sueli M. - Ribas do Rio Pardo (MS)",
+            "text": "Produto maravilhoso Adorei, chegou antes do prazo, um produto maravilhoso bem embalado, super recomendo."
           }
         },
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": " Ivana - Ponta Grossa (PR)",
+            "text": "Excelente!!! Perfeito o par de argolinhas que comprei para minha bebê de 2 anos, ficou lindo! Recomendo!"
           }
         },
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": "Clara - Taubaté (SP)",
+            "text": "Argola perfeita amei a argola, tiraram todas as minha dúvidas e ficou perfeito como eu queria, argola para a vida toda, vale muito"
           }
         },
         {
           "testimonial": {
-            "name": "Cliente #1",
-            "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
+            "name": "Stéphanie B. - Campos (RJ)",
+            "text": "Superou minhas expectativas! Simplesmente apaixonada! Minha florzinha vai completar um aninho e eu comprei pra ela usar no aniversário! Estou maravilhada com a peça! Ainda mais linda e encantadora pessoalmente! Chegou super rápido e bem embalado!"
           }
         }
       ]
@@ -167,7 +165,6 @@
             "response": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede."
           }
         }
-        
       ]
     },
     {
