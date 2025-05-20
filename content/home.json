@@ -66,13 +66,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ouro-infantil-categoria-500x500-colares-v1-01.png"
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-colares-v1-01.png",
+          "link": "https://ouroinfantil.netlify.app/colares"
         },
         {
-          "img": "/img/uploads/ouro-infantil-categoria-500x500-meu-primeiro-brinco-v1-01.png"
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-meu-primeiro-brinco-v1-01.png",
+          "link": "https://ouroinfantil.netlify.app/nascimento"
         },
         {
-          "img": "/img/uploads/ouro-infantil-categoria-500x500-brincos-v1-01.png"
+          "img": "/img/uploads/ouro-infantil-categoria-500x500-brincos-v1-01.png",
+          "link": "https://ouroinfantil.netlify.app/brincos"
         }
       ]
     },
