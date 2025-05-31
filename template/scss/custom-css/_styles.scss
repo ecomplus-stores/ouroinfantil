@@ -2368,3 +2368,19 @@ ul.app_contacts{
   }
 }
 
+#content{overflow-x: hidden;}
+.product-card .product-card__prices{
+  flex-direction: column;
+}
+[data-label="Boleto bancário"]{
+  .payment__stamp{max-height: 24px;}
+}
+
+.payment{
+  > span > .list-group > div > div{
+    display: flex;
+    flex-direction: column;
+    > a{padding-left: 0;}
+    > a[data-label="Boleto bancário"]{order:999}
+  } 
+}
