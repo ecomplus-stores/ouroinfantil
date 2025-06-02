@@ -177,6 +177,14 @@
       "list": "description_last",
       "btn_text": "Assinar!",
       "input_placeholder": "Digite seu email..."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "662e281dee85900185eee033:categories:Nascimento:/nascimento",
+      "sort": "views"
     }
   ]
 }
