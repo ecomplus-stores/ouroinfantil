@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+      {
+    "destination": "/refrigerante-macahe",
+    "source": "/",
+    "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
