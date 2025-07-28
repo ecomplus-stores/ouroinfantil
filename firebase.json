@@ -903,7 +903,7 @@
           "type": 301
         }
       ]
-    ]
+    ],
     "public": "dist",
     "ignore": [
       "firebase.json",
