@@ -2,8 +2,8 @@
   "hosting": {
     "redirects": [
       {
-    "destination": "/refrigerante-macahe",
-    "source": "/",
+    "destination": "/",
+    "source": "/refrigerante-macahe",
     "type": 301
       }
     ],
