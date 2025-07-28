@@ -1,13 +1,11 @@
 {
   "hosting": {
     "redirects": [
-      [
         {
           "destination": "/anel-com-coracao-de-rubi-de-3mm",
           "source": "/aneis/anel-com-coracao-de-rubi-de-3mm--p",
           "type": 301
         }
-      ]
     ],
     "public": "dist",
     "ignore": [
