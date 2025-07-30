@@ -56,8 +56,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "662a76364e9909015f20fe3c:categories:Brincos:/brincos",
-      "sort": "offers",
+      "collection_id": null,
+      "sort": "sales",
       "title": "Mais Vendidos",
       "headless": false,
       "limit": 12,
@@ -83,8 +83,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "",
-      "sort": "offers",
+      "collection_id": "67d1ffa953d3dd5b9c969a0b:collections:Lançamentos:/lancamentos",
+      "sort": null,
       "title": "Lançamentos",
       "headless": false,
       "limit": 12,
