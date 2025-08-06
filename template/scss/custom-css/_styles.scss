@@ -2395,3 +2395,11 @@ ul.app_contacts{
     gap: .5rem;
     padding: .5rem 1rem;
 }
+
+.blog{
+  .card-title{
+    font-size: 16px;line-height: initial;
+    margin: 0;
+    a{font-size: 16px;line-height: initial;}
+  }
+}
