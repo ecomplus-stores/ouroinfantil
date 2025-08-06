@@ -186,6 +186,10 @@
       "page": 1,
       "collection_id": "662e281dee85900185eee033:categories:Nascimento:/nascimento",
       "sort": "views"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
