@@ -142,7 +142,8 @@ export default {
       loyaltyPointsApplied: {},
       loyaltyPointsAmount: 0,
       hasMoreOffers: false,
-      summaryVisible: false
+      summaryVisible: false,
+      giftWrap: false,
     }
   },
 
@@ -326,6 +327,10 @@ export default {
     },
 
     checkout (transaction) {
+      if(this.giftWrap){
+        this.localNotes += `\n\n🎁 Embalar para presente 🎁`
+      }
+      
       if (this.loyaltyPointsAmount) {
         for (let i = 0; i < this.paymentGateways.length; i++) {
           if (this.paymentGateways[i].payment_method.code === 'loyalty_points') {

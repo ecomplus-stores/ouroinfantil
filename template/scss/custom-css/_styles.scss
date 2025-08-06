@@ -2384,5 +2384,14 @@ ul.app_contacts{
     > a[data-label="Boleto bancário"]{order:999}
   } 
 }
+.account-addresses__actions *{color: #666;}
 
-body{}
+.embrulho .btn{
+  font-size: 14px;
+      display: flex
+;
+    align-items: center;
+    width: fit-content;
+    gap: .5rem;
+    padding: .5rem 1rem;
+}

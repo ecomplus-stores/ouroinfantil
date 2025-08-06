@@ -169,6 +169,27 @@
                   is-attention-wanted
                 />
               </div>
+              <div class="mb-md-5 mb-4 embrulho">
+                <h6 class="discount-applier__intro">Embalar para presente?</h6>
+                <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                  <label
+                    class="btn btn-outline-primary"
+                    :class="{ active: giftWrap }"
+                    @click="giftWrap = true"
+                  >
+                    <input type="radio" name="giftWrap" autocomplete="off" >
+                    Sim, embalar para presente
+                  </label>
+                  <label
+                    class="btn btn-outline-primary"
+                    :class="{ active: !giftWrap }"
+                    @click="giftWrap = false"
+                  >
+                    <input type="radio" name="giftWrap" autocomplete="off" checked>
+                    Não, sem embrulho para presente
+                  </label>
+                </div>
+              </div>
             </div>
 
             <div class="checkout__col col-md-12 pt-0"
