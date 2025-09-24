@@ -900,7 +900,1654 @@
           "destination": "/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-adulto",
           "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-infantil-p",
           "type": 301
-        }   
+        },
+        [
+  {
+    "source": "/BRINCOS/brinco-rubi-coracao-cravejado-de-zirconia--p",
+    "destination": "/brinco-rubi-coracao-cravejado-de-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ifantil-safira-3-mm-em-ouro-18k--p",
+    "destination": "/brinco-infantil-safira-natural-4mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/busca?q=%7Bsearch_term_string%7D",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?order_key=preco_desc",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/pedraria",
+    "destination": "/brincos-com-pedraria",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-perolas-5mm-e-fecho-em-ouro-18k--p",
+    "destination": "/search?term=pulseira de perolas 5mm e fecho em ouro 18k  p",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click--p",
+    "destination": "/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-perolas-5mm-e-fecho-em-ouro-18k-p",
+    "destination": "/search?term=pulseira de perolas 5mm e fecho em ouro 18k p",
+    "type": 301
+  },
+  {
+    "source": "/colares/colar-corda-45-cm-em-ouro-18k--p",
+    "destination": "/colares/colar-corda-45-cm-em-ouro-18k--p",
+    "type": 301
+  },
+  {
+    "source": "/mapa-site",
+    "destination": "/sitemap.xml",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-infantil-flor-com-perola-3mm--p",
+    "destination": "/brinco-de-ouro-18k-infantil-flor-com-perola-3mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argolas?order_key=nome_desc&page=2",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/busca?order_key=preco_asc",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argolas?order_key=preco_desc",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?order_key=preco_desc",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?order_key=preco_asc",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?order_key=nome_desc",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?order_key=nome_asc",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?order_key=nome_desc",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argolas?page=2",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/busca?order_key=nome_asc",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/contato",
+    "destination": "/pages/contato",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p?produto=1596",
+    "destination": "/search?term=anel bolinha infantil  p",
+    "type": 301
+  },
+  {
+    "source": "/batismo/pingente-nossa-senhoras-das-gracas-ouro-18k-para-batismo--p",
+    "destination": "/search?term=pingente nossa senhoras das gracas ouro 18k para batismo  p",
+    "type": 301
+  },
+  {
+    "source": "/colares/colar-meu-amor-45-cm--p",
+    "destination": "/search?term=colar meu amor 45 cm  p",
+    "type": 301
+  },
+  {
+    "source": "/p/quem-somos",
+    "destination": "/pages/sobre-nos",
+    "type": 301
+  },
+  {
+    "source": "/m/ff-joias?page=12",
+    "destination": "/ff-joias",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p?produto=1633",
+    "destination": "/search?term=pingente madreperola com inicial em ouro 18k p",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-medalha-pezinho-copia-1-copia-1",
+    "destination": "/pingente-medalha-pezinho",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p?produto=1594",
+    "destination": "/search?term=anel bolinha infantil  p",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p?produto=1627",
+    "destination": "/search?term=pingente madreperola com inicial em ouro 18k p",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p?produto=1593",
+    "destination": "/search?term=anel bolinha infantil  p",
+    "type": 301
+  },
+  {
+    "source": "/p/seguranca",
+    "destination": "/pages/seguranca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?page=2",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=14",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/brinco-infantil-para-bebe-com-perola-4mm-c671",
+    "destination": "/search?term=brinco-infantil-para-bebe-com-perola",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p?produto=1644",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p?produto=1629",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=13",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=10",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-em-ouro-18k-sao-miguel-arcanjo--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-coracao-cravejado-de-zirconia--p",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/conjunto-perola-pulseira-e-brinco-perola-com-zirconia--p",
+    "destination": "/conjunto-perola-pulseira-e-brinco-perola-com-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-adulto-personalizada-em-ouro-18k-ate-10-letras-com-brilhantes--p?produto=1267",
+    "destination": "/search?term=pulseira+adulto+personalizada",
+    "type": 301
+  },
+  {
+    "source": "/batismo/pingente-anjo-da-guarda-ouro-18k-9mm-batismo--p",
+    "destination": "/pingente-ouro-anjo-da-guarda-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-coracao-branco-pequeno--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-esmeralda-oval",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/colares/colar-corda-40-cm--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/mamaes/pulseira-cartir-com-data-em-brilhantes--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/brincos/coracao",
+    "destination": "/brincos-de-coracao",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-abelha-vazado-em-ouro-18k--p",
+    "destination": "/brinco-infantil-abelha-vazado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-em-ouro-de-bolinhas-18k-com-esmeralda-gota--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click--p",
+    "destination": "/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p?produto=1634",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=12",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-adulto-personalizada-em-ouro-18k-ate-10-letras-com-brilhantes--p?produto=1264",
+    "destination": "/pulseira-adulto-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/conjunto-perola-pulseira-e-brinco--p",
+    "destination": "/conjunto-pulseira-perolas-coracao-brinco-rococo-3mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=2",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-ouro-18-k-com-pedra-branca-3-mm-em-ziconia-com-pino-rosca--p",
+    "destination": "/brinco-infantil-ouro-18-k-solitario-com-pedra-branca-em-ziconia-3-mm-com-pino-rosca",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p?produto=1592",
+    "destination": "/anel-bolinha-infantil",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argola-com-10-brilhantes--p",
+    "destination": "/argola-infantil-10-brilhantes-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/Home",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/clientes/login",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-menino-ouro-18k-amarelo-com-detalhes-em-ouro-branco--p",
+    "destination": "/pingente-menininho-ouro-18k-amarelo-com-detalhes-em-ouro-branco",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/Pingente-medalha-pezinho-Copia-1-copia-1",
+    "destination": "/pingente-medalha-pezinho",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-coracao-contorno-fio-bolinha-mini-em-ouro-18k-p",
+    "destination": "/brinco-coracao-contorno-fio-bolinha-mini-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18-k-com-pedra-branca-3-mm-em-ziconia-com-pino-rosca--p",
+    "destination": "/brinco-infantil-ouro-18-k-solitario-com-pedra-branca-em-ziconia-3-mm-com-pino-rosca",
+    "type": 301
+  },
+  {
+    "source": "/perolas?order_key=preco_desc",
+    "destination": "/brincos-com-perolas",
+    "type": 301
+  },
+  {
+    "source": "/batismo/pingente-nossa-senhoras-das-gracas-ouro-18k-media--p",
+    "destination": "/pingente-nossa-senhora-das-gracas-ouro-18k-media",
+    "type": 301
+  },
+  {
+    "source": "/p/garantia-dos-produtos",
+    "destination": "/pages/garantia-dos-produtos",
+    "type": 301
+  },
+  {
+    "source": "/brinco-de-perolas-3mm-recem-nascidos-em-ouro-18k",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-perolas-3mm-recem-nascidos-em-ouro-18k",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-coracao-pequeno-ouro-amarelo--p",
+    "destination": "/brinco-ouro-coracao-pequeno-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-infantil-p",
+    "destination": "/pulseira-infantil-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/perolas?order_key=preco_asc",
+    "destination": "/brincos-com-perolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18-k-solitario-com-pedra-branca-em-ziconia-3-mm-com-pino-rosca",
+    "destination": "/brinco-infantil-ouro-18-k-solitario-com-pedra-branca-em-ziconia-3-mm-com-pino-rosca",
+    "type": 301
+  },
+  {
+    "source": "/perolas?order_key=nome_desc",
+    "destination": "/brincos-com-perolas",
+    "type": 301
+  },
+  {
+    "source": "/perolas?order_key=nome_asc",
+    "destination": "/brincos-com-perolas",
+    "type": 301
+  },
+  {
+    "source": "/batismo/pingente-divino-espirito-santo-12mm-batismo--p",
+    "destination": "/pingente-divino-espirito-santo-12mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-1-cm--p",
+    "destination": "/pingentes",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-anjo-pensador--p",
+    "destination": "/pingente-anjo-pensador-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-cruz-em-ouro-18k-com-fio-de-ouro-branco-pequena--p",
+    "destination": "/pingente-cruz-em-ouro-18k-com-fio-de-ouro-branco-pequena",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-meu-mini-solitario-brilhantes--p",
+    "destination": "/brinco-meu-mini-solitario-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-ouro-18k-modelo-rococo-com-perola-3mm--p",
+    "destination": "/brinco-de-ouro-18k-modelo-rococo-com-perola-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-modelo-rococo-com-perola-3mm--p",
+    "destination": "/brinco-de-ouro-18k-modelo-rococo-com-perola-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-media-fio-torcido-ouro-18k-13mm-p",
+    "destination": "/argola-pequena-fio-torcido-ouro-18k-13mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argola-torcida-adulto-ouro-18k--p",
+    "destination": "/brinco-argola-coracao-fio-torcido-ouro-18k-15mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-pequeno-de-madreperola-com-bola-de-ouro--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-mini-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argola-arco-iris-ouro-amarelo-18k--p",
+    "destination": "/brinco-arco-iris-esmaltado-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-flor-madreperola-com-bola--p",
+    "destination": "/brinco-flor-de-madreperola-grande-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-18k-coracoes-vazados-com-diamante--p",
+    "destination": "/brinco-ouro-18k-com-3-coracoes-vazados-com-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-coracao-arco-iris--p",
+    "destination": "/brinco-arco-iris-esmaltado-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-coracao-arco-iris--p",
+    "destination": "/brinco-arco-iris-esmaltado-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/madreperola?order_key=preco_desc",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/batismo/pingente-nossa-senhora-das-gracas-ouro-18k-media--p",
+    "destination": "/pingente-nossa-senhora-das-gracas-ouro-18k-media",
+    "type": 301
+  },
+  {
+    "source": "/brincos/madreperola?order_key=preco_desc",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-laco-com-perola-3mm-ouro-18k-com-brilhantes--p",
+    "destination": "/brinco-infantil-laco-perola-3mm-ouro-18k-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-nossa-senhora-das-gracas-ouro-18k-media--p",
+    "destination": "/pingente-nossa-senhora-das-gracas-ouro-18k-media",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-romeu-e-julieta-com-safira-ouro-18k--p",
+    "destination": "/brinco-ouro-romeu-e-julieta-com-safira-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha--p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-morango-esmaltado-em-ouro-18k--p",
+    "destination": "/brinco-infantil-morango-esmaltado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-mini-flor-de-madreperola-com-bola-de-ouro--p",
+    "destination": "/brinco-flor-de-madreperola-rosa-grande-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-infantil--p",
+    "destination": "/pulseira-infantil-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-mickey-ouro-18k-com-zirconias-pretas-e-brancas--p",
+    "destination": "/brinco-ouro-mickey-com-zirconias-pretas-e-brancas-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-coracao-ouro-amarelo-com-zirconias-brancas-5mm--p",
+    "destination": "/brinco-coracao-de-brilhantes-em-ouro-amarelo-18k",
+    "type": 301
+  },
+  {
+    "source": "/faq?order_key=preco_desc",
+    "destination": "/pages/como-cuidar-da-sua-joia",
+    "type": 301
+  },
+  {
+    "source": "/faq?order_key=preco_asc",
+    "destination": "/pages/como-cuidar-da-sua-joia",
+    "type": 301
+  },
+  {
+    "source": "/faq?order_key=nome_asc",
+    "destination": "/pages/como-cuidar-da-sua-joia",
+    "type": 301
+  },
+  {
+    "source": "/faq",
+    "destination": "/pages/como-cuidar-da-sua-joia",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-romeu-e-julieta-com-esmeralda-pu-brilhante-ouro-18k--p",
+    "destination": "/brinco-ouro-romeu-e-julieta-com-esmeralda-ou-brilhante-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-9-letras-e-diamantes--p",
+    "destination": "/pulseira-infantil-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-grande-com-bolinha-de-ouro--p",
+    "destination": "/brinco-flor-de-madreperola-rosa-grande-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-infantil-com-pedrinhas-ouro-amarelo--p",
+    "destination": "/pulseira-infantil-com-pedrinhas-em-zirconia-branca-em-ouro-amarelo-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-nossa-senhora-das-gracas-mini--p",
+    "destination": "/pingente-nossa-senhora-das-gracas-mini",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-18k-infantil-coracao-com-pedras-brancas--p",
+    "destination": "/brinco-ouro-18k-infantil-coracao-com-pedras-brancas",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-ouro-amarelo-18k-bola-5mm--p",
+    "destination": "/brinco-de-ouro-amarelo-18k-bola-5mm",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=5",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=8",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-adulto--p",
+    "destination": "/pulseira-adulto-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-18k-coracao-mini-gordinho--p",
+    "destination": "/pingente-de-ouro-18k-coracao-mini",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argola-torcida-ouro-18k-infantil--p",
+    "destination": "/argola-mini-fio-torcido-ouro-18k-10mm",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p?produto=1595",
+    "destination": "/anel-bolinha-infantil",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-18k-coracao-vazado-cravejado-de-zirconias-vermelhas",
+    "destination": "/brinco-ouro-18k-coracao-vazado-cravejado-de-zirconias-vermelhas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-laco-com-perola-3mm-ouro-18k--p",
+    "destination": "/brinco-infantil-laco-perola-3mm-ouro-18k-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-romeu-e-julieta-com-esmeralda-e-brilhante-18k--p",
+    "destination": "/anel-laco-com-perola-infantil-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-infantil-de-perolas-em-ouro-18k--p",
+    "destination": "/search?term=pulseira-infantil",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/pulseira-de-perolas-com-coracao-em-ouro--p",
+    "destination": "/conjunto-pulseira-perolas-coracao-brinco-rococo-3mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-perolas-com-coracao-em-ouro--p",
+    "destination": "/conjunto-pulseira-perolas-coracao-brinco-rococo-3mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-em-ouro-18k--p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-8-letras-e-diamantes--p",
+    "destination": "/pulseira-infantil-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=3",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/Pulseira-de-ouro-infantil-perolas-Copia-1-copia-1",
+    "destination": "/pulseira-plaquinha-com-perolas-naturais-em-ouro18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-figa-grande--p",
+    "destination": "/pingente-de-ouro-figa-grande",
+    "type": 301
+  },
+  {
+    "source": "/brincos/madreperola?order_key=nome_desc",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-coracao-mini-argola-em-ouro-18k-fio-quadrado-10mm",
+    "destination": "/brinco-de-ouro-coracao-mini-argola-em-ouro-18k-fio-quadrado-10mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-infantil-em-ouro-18k-com-click",
+    "destination": "/argola-click-pequena-em-ouro-amarelo-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-figa-de-ouro-amarelo-18k-grande-para-cargantilhas--p",
+    "destination": "/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete-nascimento",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-coracao-mini-argola-em-ouro-18k-fio-quadrado--p",
+    "destination": "/brinco-de-ouro-coracao-mini-argola-em-ouro-18k-fio-quadrado-10mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-perolas-em-ouro-amarelo-18k--p",
+    "destination": "/conjunto-pulseira-perolas-coracao-brinco-rococo-3mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=6",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/p/como-comprar",
+    "destination": "/pages/como-comprar",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-meu-mini-solitario-brilhantes",
+    "destination": "/brinco-meu-mini-solitario-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-18k-borboleta-com-zirconias-p",
+    "destination": "/brinco-infantil-de-ouro-18k-borboleta-com-pedras-de-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-morango-esmaltado-em-ouro-18k",
+    "destination": "/brinco-infantil-morango-esmaltado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-mini-fio-torcido-ouro-18k-10mm",
+    "destination": "/argola-mini-fio-torcido-ouro-18k-10mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-perolas--p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm",
+    "type": 301
+  },
+  {
+    "source": "/csi",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-carruagem-em-ouro-18k-com-brilhantes--p",
+    "destination": "/brinco-carruagem-em-ouro-18k-com-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-18k-borboleta-com-pedras-de-zirconia--p",
+    "destination": "/brinco-infantil-de-ouro-18k-borboleta-com-pedras-de-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-de-ouro-18k-borboleta-com-pedras-de-zirconia--p",
+    "destination": "/brinco-infantil-de-ouro-18k-borboleta-com-pedras-de-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/depoimentos",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-em-zirconia-rosa-medio-4mm",
+    "destination": "/brinco-infantil-ouro-18k-coracao-em-zirconia-rosa-medio-4mm",
+    "type": 301
+  },
+  {
+    "source": "/moda-infantil/pulseira-infantil-com-pedrinhas-ouro-amarelo--p",
+    "destination": "/pulseira-infantil-com-pedrinhas-em-zirconia-branca-em-ouro-amarelo-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-esmeralda-4mm--p",
+    "destination": "/brinco-de-ouro-18k-esmeralda-4mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-perolas-3mm-recem-nascidos--p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-perolas-3mm-recem-nascidos--p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-modelo-rococo-com-perola-4mm",
+    "destination": "/brinco-de-ouro-18k-modelo-rococo-com-perola-4mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-laco-com-perola-3mm-ouro-18k--p",
+    "destination": "/brinco-infantil-laco-perola-3mm-ouro-18k-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-coracao-mini--p",
+    "destination": "/pingente-de-ouro-18k-coracao-mini",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-media-fio-torcida-ouro-18k-13mm-p",
+    "destination": "/brinco-argola-pequena-coracao-fio-torcido-13mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-flor-de-madreperola-7-mm-pequeno-rosa-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-madrepelora-7mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-medalha-anjinho-rezando-vazado--p",
+    "destination": "/pingente-medalha-anjinho-rezando-vazado",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-olho-grego--p",
+    "destination": "/pingente-infantil-de-ouro-olho-grego",
+    "type": 301
+  },
+  {
+    "source": "/moda-infantil/pulseira-de-bolinhas-ouro-amarelo-recem-nascido--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/madreperola?order_key=nome_asc",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-bolinhas-ouro-amarelo-18k-recem-nascido--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-bolinhas-ouro-amarelo-recem-nascido--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/madreperola?order_key=nome_asc",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-18k--p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-em-ouro-de-bolinhas-18k-recem-nascido--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=9",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-18k-infantil-placa-menina--p",
+    "destination": "/pulseira-de-ouro-18k-infantil-placa-menina",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-infantil-em-ouro-18k-com-plaquinha-malha-grumet-aberta--p",
+    "destination": "/pulseira-infantil-em-ouro-18k-com-plaquinha-malha-grumet-aberta",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-gota-topazio-azul--p",
+    "destination": "/brinco-infantil-gota-topazio-azul-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/colares/escapulario-infantil-em-ouro-18k-nossa-senhora-do-carmo-e-sagrado-coracao-de-jesus--p",
+    "destination": "/escapulario-infantil-em-ouro-18k-nossa-senhora-do-carmo-e-sagrado-coracao-de-jesus",
+    "type": 301
+  },
+  {
+    "source": "/busca?page=7",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/busca",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-18k--p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-amarelo-18k-bola-5mm--p",
+    "destination": "/brinco-de-ouro-amarelo-18k-bola-5mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo--p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-medalha-nascimento-customizado--p",
+    "destination": "/pingente-medalha-nascimento-customizado",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-18k-p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-meia-bola-amarela-diamantada-3mm--p",
+    "destination": "/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-meia-bola-amarela-diamantada-3mm--p",
+    "destination": "/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-infantil-de-ouro-perola--p",
+    "destination": "/anel-infantil-de-ouro-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-infantil-coracao-com-perola-4mm--p",
+    "destination": "/brinco-ouro-18k-infantil-coracao-com-pedras-brancas",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-ouro-infantil-borboleta--p",
+    "destination": "/brinco-de-ouro-infantil-borboleta",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-solitario-perola-ouro-18k-infantil--p",
+    "destination": "/search?term=Anel solitário",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-pequena-fio-torcido-ouro-18k-15mm-p",
+    "destination": "/brinco-argola-coracao-fio-torcido-ouro-18k-15mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-mini-argola-em-ouro-18k-fio-quadrado--p",
+    "destination": "/brinco-infantil-argola-fio-quadrado-10mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-abelha-esmaltado-ouro--p",
+    "destination": "/brinco-infantil-abelha-esmaltado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-perola-infantil-de-ouro-18k--p",
+    "destination": "/anel-perola-infantil-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-joaninha-ouro-18k-infantil--p",
+    "destination": "/anel-infantil-joaninha-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-de-zirconia-branca-pedra-4mm-18k--p",
+    "destination": "/brinco-infantil-ouro-18k-coracao-em-zirconia-branca-medio-4mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-zirconia-branca-pedra-4mm-em-ouro-amarelo18k--p",
+    "destination": "/brinco-ouro-de-zirconia-branca-pedra-4mm-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-7-mm-pequeno-rosa-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-madrepelora-7mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-perolas-4mm-recem-nascidos-p",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/p/como-cuidar-de-sua-joia",
+    "destination": "/pages/como-cuidar-da-sua-joia",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-argola-torcida-adulto--p",
+    "destination": "/brinco-argola-coracao-fio-torcido-ouro-18k-15mm",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-menininha-em-ouro-18k-amarelo-com-detalhes-em-ouro-branco--p",
+    "destination": "/pingente-menininha-em-ouro-18k-amarelo-com-detalhes-em-ouro-branco",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-adulto-personalizada-em-ouro-18k-ate-8-letras-com-brilhantes--p",
+    "destination": "/pulseira-adulto-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm--p",
+    "destination": "/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-fadinha-com-brilhantes",
+    "destination": "/brinco-de-ouro-fadinha-com-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-de-meia-bola-amarela-diamantada-3mm--p",
+    "destination": "/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-com-figa--p",
+    "destination": "/pulseira-infantil-ouro-18k-com-plaquinha-e-figa",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-anjo-pensador-em-ouro-18k--p",
+    "destination": "/pingente-anjo-pensador-vazado-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argolas?order_key=nome_asc&page=2",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-mini-rosa-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-anjo-da-guarda--p",
+    "destination": "/pulseira-de-ouro-infantil-anjo-da-guarda",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-zirconia-branca-pedra-4mm-em-ouro-amarelo18k--p",
+    "destination": "/brinco-ouro-de-zirconia-branca-pedra-4mm-18k",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-flor-de-madreperola-mini-5mm-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-mandala-customizado-com-nomes--p",
+    "destination": "/search?term=Pingente Mandala",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/brinco-de-ouro-18k-infantil-pedra-3mm-diversas-cores--p",
+    "destination": "/brinco-de-ouro-18k-infantil-pedra-3mm-pedra-roxa",
+    "type": 301
+  },
+  {
+    "source": "/colares/colar-escapulario-princesinha--p",
+    "destination": "/colar-escapulario-princesinha",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-mini-5mm-com-bolinha-de-ouro-18k--p",
+    "destination": "/brinco-infantil-flor-de-madreperola-pequeno-6-mm-rosa-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-vazado-pequeno",
+    "destination": "/brinco-infantil-ouro-18k-coracao-vazado",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-18k-coracao-vazado-pequeno--p",
+    "destination": "/brinco-infantil-ouro-18k-coracao-vazado",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/argolas",
+    "destination": "/brincos-argolas",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-adulto-personalizada-em-ouro-18k-ate-10-letras-com-brilhantes--p",
+    "destination": "/pulseira-adulto-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/pulseira?order_key=preco_desc",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/pulseira?order_key=nome_desc",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/pulseira?order_key=preco_asc",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/madreperola",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-de-zirconia-branca-pedra-4mm-18k--p",
+    "destination": "/brinco-infantil-ouro-18k-coracao-em-zirconia-branca-medio-4mm",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-em-ouro-nossa-senhora-aparecida-pequena--p",
+    "destination": "/pingente-mini-ouro-oval-nossa-senhora-aparecida",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-florzinhas-com-perola-ouro-amarelo-e-pedras-zirconia--p",
+    "destination": "/brinco-infantil-florzinha-com-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-9-letras-e-diamantes-adulto--p",
+    "destination": "/pulseira-adulto-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-bolinha-de-ouro-e-perola-3mm",
+    "destination": "/brinco-infantil-para-bebe-com-perola-3mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/madreperola",
+    "destination": "/brincos-madreperola",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-agnus-dei-pequeno-em-ouro-18k--p",
+    "destination": "/pingente-agnus-dei-pequeno-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "destination": "/brinco-ouro-18k-de-meia-bola-amarela-diamantada-3mm",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS?page=7",
+    "destination": "/brincos",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-infantil-de-ouro-18k-com-bolinhas--p",
+    "destination": "/pulseira-de-ouro-com-bolinhas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-argola-torcida-adulto",
+    "destination": "/brinco-argola-coracao-fio-torcido-ouro-18k-15mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-borboleta-vazado-em-ouro-18k-p",
+    "destination": "/brinco-infantil-ouro-18k-borboleta-vazada",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-mini-flor-de-madreperola-com-bola-de-ouro--p",
+    "destination": "/brinco-flor-de-madreperola-rosa-grande-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-bolinha-infantil--p",
+    "destination": "/anel-bolinha-infantil",
+    "type": 301
+  },
+  {
+    "source": "/m/ff-joias-66452bac09d34?order_key=preco_desc",
+    "destination": "/ff-joias",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-fada-do-dente--p",
+    "destination": "/pingente-fada-do-dente-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click",
+    "destination": "/argola-infantil-em-ouro-18k-coracao-zirconia-cravejada-com-click",
+    "type": 301
+  },
+  {
+    "source": "/brincos/pedraria",
+    "destination": "/brincos-com-pedraria",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/brinco-infantil-de-coracao-vermelho-diversos-tamanhos--p?produto=1122",
+    "destination": "/brinco-infantil-ouro-18k-coracao-zirconia-4mm-vermelho-pendurado",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-de-ouro-personalizado-de-3-a-8-letras--p",
+    "destination": "/anel-de-ouro-personalizado-de-3-a-7-letras",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-fada-do-dente-ouro-amarelo-18k--p",
+    "destination": "/pingente-fada-do-dente-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/promotion",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-de-ouro-zirconia-pedra-3mm-em-ouro-branco--p",
+    "destination": "/brinco-infantil-ouro-branco-18k-zirconia-3mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/Pulseira-de-ouro-infantil-com-plaquinha-grumet-Copia-1-copia-1",
+    "destination": "/pulseira-infantil-em-ouro-18k-com-plaquinha-malha-grumet-aberta",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-laco-com-perola-3mm-ouro-18k-com-brilhantes--p",
+    "destination": "/brinco-infantil-laco-perola-3mm-ouro-18k-brilhantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-infantil-unicornio-esmaltado-em-ouro-18k",
+    "destination": "/brinco-de-ouro-infantil-unicornio-esmaltado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-flor-de-madreperola-rosa-grande-com-bolinha-de-ouro-18k",
+    "destination": "/brinco-flor-de-madreperola-rosa-grande-com-bolinha-de-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-em-zirconia-branca-medio-4mm",
+    "destination": "/brinco-infantil-ouro-18k-coracao-em-zirconia-branca-medio-4mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-abelha-vazado-em-ouro-18k",
+    "destination": "/brinco-infantil-abelha-vazado-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-arco-iris-esmaltado-ouro-18k",
+    "destination": "/brinco-arco-iris-esmaltado-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-personalizada-coracao--p",
+    "destination": "/pulseira-infantil-personalizada-ouro-18k-10-letras-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-bolinha-4-mm-ouro-amarelo-com-tarrraxa-rosca--p",
+    "destination": "/brinco-de-ouro-infantil-de-bolinha-4mm-em-ouro-amarelo-tarraxa-rosca",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-laco-com-perola-adulto-ouro-18k-p",
+    "destination": "/search?term=Anel Laço",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-figa-de-ouro-amarelo-18k-tamanho-medio--p",
+    "destination": "/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete-nascimento",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-18k-borboleta-com-zirconias",
+    "destination": "/brinco-infantil-ouro-18k-borboleta-zirconias",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-com-bolinhas-p",
+    "destination": "/pulseira-de-ouro-com-bolinhas",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-fada-do-dente-em-ouro-18k--p",
+    "destination": "/pingente-fada-do-dente-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-18k-placa-infantil-com-menino--p",
+    "destination": "/pulseira-de-ouro-18k-placa-infantil-com-menino",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-infantil-borboleta--p",
+    "destination": "/brinco-de-ouro-infantil-borboleta",
+    "type": 301
+  },
+  {
+    "source": "/m/ff-joias?page=4",
+    "destination": "/ff-joias",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete-nascimento--p",
+    "destination": "/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete-nascimento",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-ouro-nossa-senhoras-de-fatima-18k--p",
+    "destination": "/search?term=Nossa Senhora de Fátima",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-bolinha-4-mm-ouro-amarelo-com-tarrraxa-rosca--p",
+    "destination": "/brinco-de-ouro-infantil-de-bolinha-4mm-em-ouro-amarelo-tarraxa-rosca",
+    "type": 301
+  },
+  {
+    "source": "/brincos/argola-infantil-ouro-18k-com-borboleta-em-zirconia",
+    "destination": "/argola-infantil-ouro-18k-com-borboleta-em-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/nascimento/brinco-infantil-de-coracao-vermelho-diversos-tamanhos--p",
+    "destination": "/brinco-infantil-ouro18k-coracao-vermelho-pequeno",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-zirconia-pedra-3mm-em-ouro-branco--p",
+    "destination": "/brinco-infantil-ouro-branco-18k-zirconia-3mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-4-perolas--p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-com-placa-para-gravar-nome-na-frente-e-atras-com-a-oracao-santo-anjo-do-senhor-p",
+    "destination": "/pulseira-infantil-ouro-18k-placa-nome-oracao-santo-anjo",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "destination": "/brinco-recem-nascido-bolinha-3mm-de-ouro-amarelo-com-rosca",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-piastrine--p",
+    "destination": "/pulseira-infantil-ouro-18k-elo-piastrine-plaquinha",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-grumet-copia-1-copia-1",
+    "destination": "/pulseira-infantil-em-ouro-18k-com-plaquinha-malha-grumet-aberta",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS",
+    "destination": "/brincos",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-ouro-nossa-senhoras-de-fatima-pequeno-em-ouro-18k--p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete--p",
+    "destination": "/pingente-figa-de-ouro-amarelo-18k-para-batizado-e-alfinete-nascimento",
+    "type": 301
+  },
+  {
+    "source": "/gargantilhas",
+    "destination": "/colares",
+    "type": 301
+  },
+  {
+    "source": "/perolas",
+    "destination": "/brincos-com-perolas",
+    "type": 301
+  },
+  {
+    "source": "/brincos/uma-tarraxa-de-ouro-baby",
+    "destination": "/um-par-de-tarraxa-de-ouro-baby",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-gatinha-com-perola--p",
+    "destination": "/brinco-infantil-de-ouro-gatinha-com-perola",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-flor-com-perola-18k-com-pedras-zirconia",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-infantil-ouro-18k-coracao-zirconia-vermelho-pendurado--p",
+    "destination": "/brinco-infantil-ouro-18k-coracao-zirconia-4mm-vermelho-pendurado",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-menina-em-ouro-18k-p",
+    "destination": "/pingente-menina-ouro-18k-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/BRINCOS/brinco-ouro-18k-perola-natural-5mm--p",
+    "destination": "/brinco-ouro-18k-perola-natural-5mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira?page=2",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/pulseira?order_key=nome_asc",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/uma-tarraxa-de-ouro-baby?utm_source=Multiplace&utm_medium=produto&utm_campaign=uma-tarraxa-de-ouro-baby",
+    "destination": "/um-par-de-tarraxa-de-ouro-baby",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-madreperola-com-inicial-em-ouro-18k-p",
+    "destination": "/search?term=Pingente Madreperola Com Inicial em Ouro",
+    "type": 301
+  },
+  {
+    "source": "/aneis/anel-de-brilhantes-solitario-com-brilhantes-de-3-mm--p",
+    "destination": "/anel-de-brilhantes-solitario-com-brilhante",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-divino-espirito-santo-12mm-ouro-18k--p",
+    "destination": "/pingente-divino-espirito-santo-12mm-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-coracao-pequeno-argola-em-ouro-18k-fio-quadrado-12mm-p",
+    "destination": "/brinco-coracao-pequeno-argola-em-ouro-18k-fio-quadrado-13mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-branco-18k-bola-3mm",
+    "destination": "/brinco-de-ouro-branco-18k-bola-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-coracao-pequeno-18k",
+    "destination": "/brinco-coracao-pequeno-ouro-branco-18k",
+    "type": 301
+  },
+  {
+    "source": "/brinco-ouro-18k-com-3-coracoes-vazados-com-diamantes",
+    "destination": "/brinco-ouro-18k-com-3-coracoes-vazados-com-diamantes",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm--p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-coracao-mini-argola-em-ouro-18k-fio-quadrado-10mm-p",
+    "destination": "/brinco-de-ouro-coracao-mini-argola-em-ouro-18k-fio-quadrado-10mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-18k-romeu-e-julieta-perola-com-zirconia-branca",
+    "destination": "/brinco-ouro-romeu-e-julieta-com-safira-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-placa-com-coracao-e-gravacao--p",
+    "destination": "/pingente-placa-com-coracao-para-gravacao-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-bola-dourada-em-ouro-18k-com-perola-natural-2-5mm-pendurada",
+    "destination": "/brinco-infantil-bola-dourada-em-ouro-18k-com-perola-natural-3mm-pendurada",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-cartier-fina-com-perolas-e-placa-para-gravar-p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-infantil-de-bolinha-4mm-em-ouro-branco",
+    "destination": "/brinco-de-ouro-infantil-de-bolinha-4mm-em-ouro-branco",
+    "type": 301
+  },
+  {
+    "source": "/Brincos",
+    "destination": "/brincos",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm-p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-4-perolas-cada-perola-3-mm",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-infantil-com-plaquinha-piastrine-p",
+    "destination": "/pulseira-de-ouro-infantil-com-plaquinha-piastrine",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-18k-em-brilhantes-3mm-em-ouro-branco-18k",
+    "destination": "/brinco-de-ouro-18k-em-brilhantes-3mm-em-ouro-branco-18k",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-zirconia-4mm-vermelho-pendurado",
+    "destination": "/brinco-infantil-ouro-18k-coracao-zirconia-4mm-vermelho-pendurado",
+    "type": 301
+  },
+  {
+    "source": "/account",
+    "destination": "/",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-placa-para-gravar-nome-na-frente-e-atras-com-a-oracao-santo-anjo-do-senhor--p",
+    "destination": "/pulseira-infantil-ouro-18k-placa-nome-oracao-santo-anjo",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-zirconia-4mm-azul-safira-pendurado",
+    "destination": "/brinco-infantil-ouro-18k-coracao-zirconia-4mm-azul-safira-pendurado",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-18k-coracao-rosa-3mm",
+    "destination": "/brinco-infantil-de-ouro-18k-coracao-rosa-3mm",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-de-ouro-gatinha-com-perola",
+    "destination": "/brinco-infantil-de-ouro-gatinha-com-perola",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-mini-medalha-nossa-senhora-da-conceicao-ouro-18k-ornato-p",
+    "destination": "/search?term=",
+    "type": 301
+  },
+  {
+    "source": "/pulseira",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-zirconia-4mm-branco-pendurado",
+    "destination": "/brinco-infantil-ouro-18k-coracao-zirconia-4mm-branco-pendurado",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-coracao-personalizada-mao-e-filha--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-lacinho-ouro-com-perola",
+    "destination": "/brinco-infantil-lacinho-ouro-com-perola",
+    "type": 301
+  },
+  {
+    "source": "/pulseira/pulseira-de-ouro-coracao-personalizada-mae-e-filha--p",
+    "destination": "/pulseiras",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-de-ouro-coracao-medio-argola-em-ouro-18k-fio-quadrado-15mm-p",
+    "destination": "/brincos-de-coracao",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-ouro-18k-perola-natural-5mm",
+    "destination": "/brinco-ouro-18k-perola-natural-5mm",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-de-ouro-tulipa-dente-leite--p",
+    "destination": "/pingentes",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-gota-ametista-em-ouro-18k",
+    "destination": "/brinco-infantil-gota-ametista-em-ouro-18k",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-dente-de-grande--p",
+    "destination": "/pingente-dente-de-grande",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-menino-ouro-18-k--p",
+    "destination": "/pingente-menino-ouro-18k-zirconia",
+    "type": 301
+  },
+  {
+    "source": "/brincos/brinco-infantil-ouro-18k-coracao-zirconia-vermelho-pendurado--p",
+    "destination": "/brincos-de-coracao",
+    "type": 301
+  },
+  {
+    "source": "/pingentes/pingente-menina-em-ouro-18k--p",
+    "destination": "/pingente-menina-em-ouro-18k",
+    "type": 301
+  }
+]  
     ],
     "public": "dist",
     "ignore": [
