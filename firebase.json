@@ -901,7 +901,7 @@
           "source": "/pulseira/pulseira-personalizada-em-ouro-18k-com-ate-10-letras-e-diamantes-infantil-p",
           "type": 301
         },
-        [
+        
   {
     "source": "/BRINCOS/brinco-rubi-coracao-cravejado-de-zirconia--p",
     "destination": "/brinco-rubi-coracao-cravejado-de-zirconia",
@@ -2547,7 +2547,7 @@
     "destination": "/pingente-menina-em-ouro-18k",
     "type": 301
   }
-]  
+
     ],
     "public": "dist",
     "ignore": [
